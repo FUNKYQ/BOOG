@@ -10,6 +10,7 @@
 #define IDB_SIX     3306
 #define BIF_NEWDIALOGSTYLE 0x0040 
 
+//ÂÒÐ´µÄÒ»¾ä×¢ÊÍ
 typedef struct Node
 {
 	int val1,val2,val3,val4;
